@@ -2,9 +2,6 @@
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Smean&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Smean&exclude_repo=dkssud8150.github.io&layout=compact&theme=default)](s)
-
-
 
 
 
